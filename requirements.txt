@@ -1,1 +1,5 @@
-
+pyTelegramBotAPI
+opencv-python
+numpy
+insightface
+onnxruntime
